@@ -1,0 +1,6 @@
+# proyecto inicial de backend
+
+ejecutar el siguiente codigo para desplegar el servidor
+....
+npm install
+....
